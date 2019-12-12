@@ -1,0 +1,30 @@
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\5.11.19g\Графика\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\bin\Debug\WindowsFormsApp3.exe.config
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\bin\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\bin\Debug\WindowsFormsApp3.pdb
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\5.11.19g\Графика\Человечик\obj\Debug\WindowsFormsApp3.pdb
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\bin\Debug\WindowsFormsApp3.exe.config
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\bin\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\bin\Debug\WindowsFormsApp3.pdb
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.exe
+D:\Учёба2-19\ООП\Практические\Новая папка\Человечик\obj\Debug\WindowsFormsApp3.pdb
